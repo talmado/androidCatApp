@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CatAppDemo</string>
+    <string name="description">Description</string>
+    <string name="no_votes_available">No votes available</string>
+    <string name="no_breed_detail_found">No Breed Detail Found</string>
+    <string name="no_favorites">you do not have favorites yet</string>
+</resources>
